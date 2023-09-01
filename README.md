@@ -1,58 +1,15 @@
-Contribution: 2011-06-15 20:00
+# Beach Hotel
+This web app helps you in locating all the hotel's and filter out the hotel's based on your requirement and budget. Created using React, Contentful and deployed on Netlify.
 
-Contribution: 2011-06-15 20:01
+### Screenshots
+#### Home Page
+![Home Page](assets/screenshot-1.PNG)
 
-Contribution: 2011-06-16 20:00
+#### Rooms Pages
+![Rooms Page](assets/screenshot-2.PNG)
 
-Contribution: 2011-06-16 20:01
+#### Single Room Page
+![Single Room](assets/screenshot-3.PNG)
 
-Contribution: 2011-06-16 20:02
-
-Contribution: 2011-06-16 20:03
-
-Contribution: 2011-06-20 20:00
-
-Contribution: 2011-06-20 20:01
-
-Contribution: 2011-06-20 20:02
-
-Contribution: 2011-06-20 20:03
-
-Contribution: 2011-06-20 20:04
-
-Contribution: 2011-06-22 20:00
-
-Contribution: 2011-06-23 20:00
-
-Contribution: 2011-06-23 20:01
-
-Contribution: 2011-06-24 20:00
-
-Contribution: 2011-06-24 20:01
-
-Contribution: 2011-06-29 20:00
-
-Contribution: 2011-06-29 20:01
-
-Contribution: 2011-06-29 20:02
-
-Contribution: 2011-06-29 20:03
-
-Contribution: 2011-06-29 20:04
-
-Contribution: 2011-06-30 20:00
-
-Contribution: 2011-06-30 20:01
-
-Contribution: 2011-06-30 20:02
-
-Contribution: 2011-06-30 20:03
-
-Contribution: 2011-07-01 20:00
-
-Contribution: 2011-07-01 20:01
-
-Contribution: 2011-07-01 20:02
-
-Contribution: 2011-07-01 20:03
-
+### Reference
+[FreeCodeCamp Tutorial](https://www.youtube.com/watch?v=LXJOvkVYQqA)
